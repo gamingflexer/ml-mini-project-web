@@ -10,6 +10,8 @@ location, and disaster-related hashtags. The tweets extracted have noise - unwan
 Our models would classify disaster-related tweets. These classified tweets can then be used to identify those people who
 need help and using this information higher authorities can take quick actions.
 
+Backend Api Setup - https://github.com/gamingflexer/ml-mini-project-api
+
 ---
 Nodejs Version
 
